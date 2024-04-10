@@ -1,53 +1,62 @@
-## Survey Data Analysis by AI
+## Survey Data Analysis by AI 
 
-**Research Question/Goal**: How can AI analysis tool can reduce the time and procedure required for analysis and find correlations between data?
+**Research Question/Goal** #AIUXDesign
+: Can AI analysis tool reduce the time and procedure required for analysis and find correlations between data?
+
 
 ### AI Tools Researched 
 
 1. Microsoft Survey
+   Provide survey functionality with survey response visualization, insight and csv file.
 2. Chat GPT4
-3. Other AI generators
+   GPT4 accept not only words but also files.
+3. Other Survey Analysis AI generators
+   Used Ask Zia, Survey Vista, Datayaki to analyze the survey dataset(csv file).
+
 
 ### Implementation & Testing
 
 The following steps were completed with each of the AI tools researched:
 
-- Upload survey response data
+- Upload survey response dataset (CSV file from other research)
+- Generate the analysis and insight
+- Compare the result with other analysis
 
-- Generate a high-level overview of key topics and questions to cover in a website usability study interview script
-- Generate initial interview questions focused on website usability issues 
-- Selected 15 relevant, non-biased questions for further refinement
-- Run a bias analysis on each question
-- Refined questions further based on the reduction of error score
-- Created final 10-question interview script
 
 ### Evaluation of Tools
 
-**ChatGPT**
+**Microsoft Survey**
 
-- Generated a broad overview of website usability study direction but lacked question specifics
-- Struggled to provide relevant, unbiased questions tied to qualitative insights
-- No capability for bias checking or refinement
+- Provided the visualization of response for each questions.
+- Provided insight related between the colunmns.
+- Insight provided trend analysis: columns realated by numbers(People who select 'yes' in Q1, also selected 'yes' in Q4).
+- No capability for content analysis(People who select 'peanut', also selected 'abc@drexel.edu'). 
 
-**Claude**
+**ChatGPT4**
 
-- Provided relevant initial questions, but some lacked enough nuance
-- No analysis of bias, but allowed manual selection of best questions
-- Refinement relies fully on human effort rather than AI-assistance
+- It used python librarys to analylize the csv dataset.
+- Did not Provided the viusalization of response.
+- Provides content analysis - relation between the columns and solutions to the finding.
+- Up to the question, gpt can generate Persona, UX findings, and painpoints.
 
-**Others: Ask Zia, Survey Vista**
+**Others**
 
-- Provided relevant initial questions, but some lacked enough nuance
-- No analysis of bias, but allowed manual selection of best questions
-- Refinement relies fully on human effort rather than AI-assistance
+- Some of the free versions requires data cleaning.
+- Provide data visualization. However there are no understanding of the content so the result was not accurate.
+- Most of the analysis was data visualization, did not provide  content analysis.
 
-Overall, the tools showed differentiation in their scope - broad ideation vs bias checking vs manual refinement. Layering them addressed blindspots but with some repetition of efforts. 
+Overall, insight of survey requires understanding of numbers and content. Microsoft can understand the numbers but not the context. So the insight were simple, and user have to cherry pick the analysis. Google survey is similar tools. Personally, google servey was more helpful for the insight. 
+Chat GPT is great for other content analysis. This can defianly reduce the load of work on documentaion(insight, persona, ux finding, etc). However this tool was not bulit for the analysis, therefore it was little hard to tracking the questions and answers. Also if you ask for data visualization it provide python code.
+Other generators, it is good for visualizaion. However depends on the platform it requires data cleaning. Which felt very annoying process. For the person who can use python, I would reccomend analysing with python and get the visuals. 
+
 
 ### Key Challenges
 
-- Misalignment between tools' specific capabilities 
-- Some inaccurate or irrelevant questions generated 
+- AI's capabilities are all different
+- Hard to find AIs that provide insight
+- Hard to find AIs that accept CSV file without data cleaning
+
 
 ### Conclusion:
 
-AI-assisted prompt development shows strong potential for accelerating the initial phases of UX research planning with further iterations. Combining multiple tools helps offset individual limitations through a hybrid approach. Intent tuning is essential for relevance.
+To get a insight from analysis, AI need understanding in numbers and context. Throughout the research only chatGPT has been used from insight derivation to other UX research. Therefore collaborating with GPT can reduce your effort and moreover it can find the things you missed.
