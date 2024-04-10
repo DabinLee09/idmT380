@@ -54,8 +54,8 @@ dataset: https://drexel0.sharepoint.com/:x:/r/sites/2023IDM-371/Shared%20Documen
 - Provide data visualization. However there are no understanding of the content so the result was not accurate.
 - Most of the analysis was data visualization, did not provide  content analysis.
 
-<img height=30% alt="w1_q1" src="https://github.com/DabinLee09/idmT380/assets/146892288/fece5232-2f7b-4f01-a36b-03e971a74e31">
-<img height=30%  alt="w1_q2" src="https://github.com/DabinLee09/idmT380/assets/146892288/5fcef788-794a-4b52-8c8a-ba2d6665c178">
+<img height="30%" alt="w1_q1" src="https://github.com/DabinLee09/idmT380/assets/146892288/fece5232-2f7b-4f01-a36b-03e971a74e31">
+<img height="30%"  alt="w1_q2" src="https://github.com/DabinLee09/idmT380/assets/146892288/5fcef788-794a-4b52-8c8a-ba2d6665c178">
 
 Overall, insight of survey requires understanding of numbers and content. Microsoft can understand the numbers but not the context. So the insight were simple, and user have to cherry pick the analysis. Google survey is similar tools. Personally, google servey was more helpful for the insight. 
 Chat GPT is great for other content analysis. This can defianly reduce the load of work on documentaion(insight, persona, ux finding, etc). However this tool was not bulit for the analysis, therefore it was little hard to tracking the questions and answers. Also if you ask for data visualization it provide python code.
