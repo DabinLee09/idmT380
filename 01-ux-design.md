@@ -33,7 +33,7 @@ dataset: https://drexel0.sharepoint.com/:x:/r/sites/2023IDM-371/Shared%20Documen
 - Provided insight related between the colunmns.
 - Insight provided trend analysis: columns realated by numbers(People who select 'yes' in Q1, also selected 'yes' in Q4).
 - No capability for content analysis(People who select 'peanut', also selected 'abc@drexel.edu').
-  <div flex-direction: row;> 
+  <div flex-direction="row"> 
 <img width="858" alt="w1_microsoft_insigt1" src="https://github.com/DabinLee09/idmT380/assets/146892288/9a0649dc-c247-43eb-98f4-4867c593aab3">
 <img width="554" alt="w1_microsoft_insigth" src="https://github.com/DabinLee09/idmT380/assets/146892288/2809a0bf-e96f-4d96-a6c4-7649bf32ef9b">
 </div>
