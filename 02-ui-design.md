@@ -1,7 +1,7 @@
 ## Survey Data Analysis by AI
 
 Research Question/Goal : 
-How fast we can create wireframe with Ui generator.
+What can AI do for the UI design
 
 ### AI Tools Researched
 1. Uizard
