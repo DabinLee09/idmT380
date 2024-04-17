@@ -1,12 +1,12 @@
-###Survey Data Analysis by AI
+## Survey Data Analysis by AI
 Research Question/Goal : 
 How fast we can create wireframe with Ui generator.
 
-##AI Tools Researched
+### AI Tools Researched
 Uizard
 Visily AI
 
-##Implementation & Testing
+### Implementation & Testing
 Use AI tools and create wireframe and mock ups for the App.
 
 **App Features**
@@ -18,7 +18,7 @@ To do list for track the assignments
 : Simple hand-drawn style. pastel or lively tone with cute typography
 
 ----
-##Function of Tools
+### Function of Tools
 **1. Uizard**
 Prompt and photo based UI generator. 
 Can generate wireframe and low-fi mock up
@@ -32,7 +32,7 @@ Can convert photo into wireframe or color theme.
 Can generate dummy texts and images.
  
  
-##Evaluation of Tools
+### Evaluation of Tools
 **1. Uizard**
 Prompt-based functions(Generating wireframe and theme) felt very powerful.
 It was hard to change the given design, but it was helpful to create new design.
@@ -54,6 +54,6 @@ User have to know what they want specipically.
 
 ----
 
-##Conclusion
+### Conclusion
 Overall, both tools was very helpful for the fast prototyping. However it would need more work if user want to create high-fi prototype.
 I would used Uizard to do the wireframing and low fi usabilty test. Then export this into figma and develop the visual design.
