@@ -52,16 +52,13 @@ Arrange it on a plain black background.
 - Good for test work.
 
 **3D CSM ai**
-- Prompt based image generator. 
-- Photo based 3D asset generator.
-- Create photo of 3d asset, and generate 3D asset by created photo uploaded photo.
+- Photo to 3d was useful, however it was hard to modify created work.
+- Can not choose the style on photo to 3d. If input is photo of real Statue of Liberty, it will created realistic asset. If you want to create Statue of Liberty in cartoon style or change the color of certain part, then you will need to create photo of what you want and upload the  image.
 
 
 **Key Challenges**
-- Can modify very small part of generated asset(colors, size, etc)
-- 
+- Can modify very small part of generated 3d asset(colors, size, etc)
 
 
 ### Conclusion
-Overall, both tools was very helpful for the fast prototyping. However it would need more work if user want to create high-fi prototype.
-I would used Uizard to do the wireframing and low fi usabilty test. Then export this into figma and develop the visual design.
+Overall the quality of 3d work is very low and possible art style was not much variable. If it is photo based the it will rely very much on the photos but when it turn 2d to 3d, it lost few deail or confuse the element. So the output can be merged some times to times. Also, it is hard to modify in given web-based program. I haven't imported this into the real 3d tools but it seems export as a one object(if character is wearing clothes, you cannot separate them). These tools can be used for example of concept, sketch, or mood board. It wasn't satisfactory to use for actual work
