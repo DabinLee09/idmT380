@@ -44,8 +44,9 @@ vaildate of the Content, reference, word count etc
 
 **Jenni Ai**
 - Prompt based Writing generator
-- Reference finding technology
-- Wenerate the essay sentance by sentance
+- Find related reference itself and use it for the writing and provide premier in link and APA format.
+- By using prompt users can get a idea of reference, content structure and insperation.
+- Generate the essay sentance by sentance
 
 
 ### Evaluation of Tools
@@ -72,12 +73,16 @@ Testing: https://claude.ai/chat/6aeba080-e7dc-4065-b3fa-9caea76cb511
 - The tone was very GPT.
 - It was like a reconstruction of the given data. Not a essay writing.
 
-Testing: 
+Testing: https://chat.openai.com/share/dcfd6797-0543-48ff-994f-b3f75df2bb04
+
 
 **Jenni Ai**
+- Jenni Ai has two features. Prompt and writing section. 
+- The way Jenni Ai generate the content is different from Claude and Chat GPT 4. It start with prompt base, but it genterate text sentance by senctance. Which means it generate one sentance, asks for 'Accept' or 'Customize'.
+  
 1. Did contain the word I requested. The format of writing was not a essay format.
 2. Matched the format but the word count was not(200 words). The flow was similar to that I planed it, but it needs more detail.
-3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed.
+3. It provide links, 
 
 
 **Key Challenges**
