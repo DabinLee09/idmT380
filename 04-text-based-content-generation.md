@@ -47,6 +47,7 @@ vaildate of the Content, reference, word count etc
 - Reference finding technology
 - Wenerate the essay sentance by sentance
 
+
 ### Evaluation of Tools
 **Claude**
 1. Did contain the word I requested. The format of writing was not a essay format.
@@ -57,21 +58,26 @@ vaildate of the Content, reference, word count etc
 - If there are no findings, the frequency of making words is less than that of GPT
 - Tone was more less ai then GPT
 - Branded Ui seems very delicate, felt like Claude is more focused on the writing(human language) not problem solving(coding, anwsering questions)
+- It does not seem the understand the prompt very well.
+
+Testing: https://claude.ai/chat/6aeba080-e7dc-4065-b3fa-9caea76cb511
 
  
 **Chat GPT 4**
 1. Did contain the word I requested. The format of writing was not a essay format.
-2. Matched the format but the word count was not(761 words). The flow was similar to that I planed it, but it needs more detail.
-3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed.
-4. Expexted new flow for the content, but 1,2, and 4 output was very similar. Example were changed but metaphor or structures are very same.
+2. Matched the format but the word count was not(582 words). The flow was similar to that I planed it, but it needs more detail.
+3. Cannot process img file in pdf. Can access the links, when there are no answer it still gave me the result with related link.
+4. Tones are slightly changing. Very strict to the propmt. It feels like essay is composed by with the given element.
 
-- The tone was very GPT. 
+- The tone was very GPT.
+- It was like a reconstruction of the given data. Not a essay writing.
+
+Testing: 
 
 **Jenni Ai**
 1. Did contain the word I requested. The format of writing was not a essay format.
-2. Matched the format but the word count was not(761 words). The flow was similar to that I planed it, but it needs more detail.
+2. Matched the format but the word count was not(200 words). The flow was similar to that I planed it, but it needs more detail.
 3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed.
-4. Expexted new flow for the content, but 1,2, and 4 output was very similar. Example were changed but metaphor or structures are very samet
 
 
 **Key Challenges**
@@ -80,4 +86,6 @@ vaildate of the Content, reference, word count etc
 
 
 ### Conclusion
-Overall the quality of 3d work is very low and possible art style was not much variable. If it is photo based the it will rely very much on the photos but when it turn 2d to 3d, it lost few deail or confuse the element. So the output can be merged some times to times. Also, it is hard to modify in given web-based program. I haven't imported this into the real 3d tools but it seems export as a one object(if character is wearing clothes, you cannot separate them). These tools can be used for example of concept, sketch, or mood board. It wasn't satisfactory to use for actual work
+To get a certain quality wrting, user have to plan the structure and give the details. And to used the certain word in certain tone, it need to write the prompt very specifically. It is convenient tool, but I would not rely on everything to this generator. It is hard to lead the way as I wanted. 
+Also I would use Ais in english but not in Korean(or other language). My first language is Korean, and I would not use these kind of AI when I write in korean. Because when I test same thing in English and Korean, it gave me different answers(Details, amout and accuracy). And I think of myself as a good writer and I have my own tone in writing, so when I use ai, I feel like my tones are ruined it. I would use AI related to grammar, but not for the writing. 
+However, for the English, I would definitely use the Ais but only for the reference. Of course I need help on grammers and spelling. The Ai helps most is it's easy to know the new expression or the tone that fits the situation. However the tone of voice is still very ai, I would not use ai front to end.
