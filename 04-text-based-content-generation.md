@@ -4,7 +4,7 @@ Research Question/Goal :
 How 
 
 ### AI Tools Researched
-1. Cloude
+1. Claude
 2. Chat GPT 4
 3. Jenni Ai
 
@@ -25,44 +25,58 @@ And write conclusion in 3-4 lines.
 
 **Test Features**
 vaildate of the Content, reference, word count etc
+1. Ask for essay with basic prompt 
+2. Ask for essay with basic prompt and Reference, 1000 words
+3. Check if the AI knows the each reference(database check)
+4. Ask again for essay with basic prompt and Reference,  1000 words
 
 
 ### Function of Tools
-**Cloude**
-- Prompt based image generator. 
-- Can generate photo of 3d asset.
+**Claude**
+- Prompt based Text generator 
+- Claude can do cision analysis, code generation, multilingual processing and advanced reasoning
 
  
 **Chat GPT 4**
-- Prompt based 3D asset generator.
-- It has Image to 3D function but it is paid feature.
+- Prompt based Text generator 
+- GPT 4 can do cision analysis, code generation, multilingual processing and advanced reasoning
 
 
 **Jenni Ai**
-- Prompt based image generator. 
-- Photo based 3D asset generator.
-- Create photo of 3d asset, and generate 3D asset by created photo uploaded photo.
+- Prompt based Writing generator
+- Reference finding technology
+- Wenerate the essay sentance by sentance
 
 ### Evaluation of Tools
-**Cloude**
-- Prompt can create very detailed input in high quality.
-- It can create any kind of great asset with detailed promt but only in the photo.
-- It would be more powerful if it used as a sketch or moodboard of design work.
+**Claude**
+1. Did contain the word I requested. The format of writing was not a essay format.
+2. Matched the format but the word count was not(761 words). The flow was similar to that I planed it, but it needs more detail.
+3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed. 
+4. Expexted new flow for the content, but 1,2, and 4 output was very similar. Example were changed but metaphor or structures are very same.
+
+- If there are no findings, the frequency of making words is less than that of GPT
+- Tone was more less ai then GPT
+- Branded Ui seems very delicate, felt like Claude is more focused on the writing(human language) not problem solving(coding, anwsering questions)
 
  
 **Chat GPT 4**
-- Prompt did not understanded detailed input. 
-- It provided three type of art style(realistic, low-poly, cartoon), however the overall quality of the work was low-mid.
-- the more detiled the it put is, it takes long time and some of the written details are ignored.
-- Good for test work.
+1. Did contain the word I requested. The format of writing was not a essay format.
+2. Matched the format but the word count was not(761 words). The flow was similar to that I planed it, but it needs more detail.
+3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed.
+4. Expexted new flow for the content, but 1,2, and 4 output was very similar. Example were changed but metaphor or structures are very same.
+
+- The tone was very GPT. 
 
 **Jenni Ai**
-- Photo to 3d was useful, however it was hard to modify created work.
-- Can not choose the style on photo to 3d. If input is photo of real Statue of Liberty, it will created realistic asset. If you want to create Statue of Liberty in cartoon style or change the color of certain part, then you will need to create photo of what you want and upload the  image.
+1. Did contain the word I requested. The format of writing was not a essay format.
+2. Matched the format but the word count was not(761 words). The flow was similar to that I planed it, but it needs more detail.
+3. It does not have access to the internet links, cannot process img file in pdf. Therefore there are some obstacle to get a exact definition or content user planed.
+4. Expexted new flow for the content, but 1,2, and 4 output was very similar. Example were changed but metaphor or structures are very samet
 
 
 **Key Challenges**
-- Can modify very small part of generated 3d asset(colors, size, etc)
+- Hard to fit the word count.
+- Need to guide structure for the essay and write specifically.
 
 
 ### Conclusion
