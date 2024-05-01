@@ -1,7 +1,7 @@
 ## Essay Generator
 
 Research Question/Goal : 
-How 
+Writing essay with ai with reference: how accurate will be.
 
 ### AI Tools Researched
 1. Claude
