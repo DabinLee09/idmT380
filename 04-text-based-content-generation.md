@@ -1,11 +1,11 @@
-## 3D Asset Generator
+## Essay Generator
 
 Research Question/Goal : 
-How can we make 3d Icon/Asset quickly without using 3D tools(Blender 3D, Unity, Unreal Engin, Maya, etc)
+How 
 
 ### AI Tools Researched
-1. MidJourney
-2. Meshy
+1. Cloude
+2. Chat GPT 4
 3. 3D CSM ai
 
 ### Implementation & Testing
