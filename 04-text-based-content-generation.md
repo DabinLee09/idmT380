@@ -1,7 +1,7 @@
 ## Essay Generator
 
 Research Question/Goal : 
-Writing essay with ai with reference: how accurate will be.
+Writing essay with AI: Check reference reliability and usage
 
 ### AI Tools Researched
 1. Claude
@@ -9,7 +9,8 @@ Writing essay with ai with reference: how accurate will be.
 3. Jenni Ai
 
 ### Implementation & Testing
-Create essay with given reference.
+Create essay with given reference: Check the application of given reference.
+Review of reference application and interpretation capabilities of Ai
 
 **Basic prompt**
 write me essay about 'Why do we want to bring everything in to digital world?'
@@ -77,12 +78,16 @@ Testing: https://chat.openai.com/share/dcfd6797-0543-48ff-994f-b3f75df2bb04
 
 
 **Jenni Ai**
-- Jenni Ai has two features. Prompt and writing section. 
-- The way Jenni Ai generate the content is different from Claude and Chat GPT 4. It start with prompt base, but it genterate text sentance by senctance. Which means it generate one sentance, asks for 'Accept' or 'Customize'.
-  
-1. Did contain the word I requested. The format of writing was not a essay format.
-2. Matched the format but the word count was not(200 words). The flow was similar to that I planed it, but it needs more detail.
-3. It provide links, 
+1. Provided introduction what would be good to include in each sentence
+2. Similar to the 1. Just changed the examples
+3. Cannot process img file in pdf. Can access the links. if it does not has any answers it says ‘can not find the answer’
+4. Provide essay draft. Did not fit the word count
+
+- Jenni Ai has two features. Prompt and writing section.
+- On the prompt section, it recommend questions to ask related to the user input.
+- On the writing, it automatically recommend related reference with link and APA style annotation.
+- The way Jenni Ai generate the content is different from Claude and Chat GPT 4. It start with prompt base, but it generate text sentence by sentence. Which means it generate one sentence, asks for 'Accept' or 'Customize'.
+
 
 
 **Key Challenges**
@@ -91,8 +96,8 @@ Testing: https://chat.openai.com/share/dcfd6797-0543-48ff-994f-b3f75df2bb04
 
 
 ### Conclusion
-To get a certain quality wrting, user have to plan the structure and give the details. And to used the certain word in certain tone, it need to write the prompt very specifically. It is convenient tool, but I would not rely on everything to this generator. It is hard to lead the way as I wanted. 
-Also I would use Ais in english but not in Korean(or other language). My first language is Korean, and I would not use these kind of AI when I write in korean. Because when I test same thing in English and Korean, it gave me different answers(Details, amout and accuracy). And I think of myself as a good writer and I have my own tone in writing, so when I use ai, I feel like my tones are ruined it. I would use AI related to grammar, but not for the writing. 
-However, for the English, I would definitely use the Ais but only for the reference. Of course I need help on grammers and spelling. The Ai helps most is it's easy to know the new expression or the tone that fits the situation. However the tone of voice is still very ai, I would not use ai front to end.
+It is great for subtool. Easy to get an idea or get help when user start writng. However depends on the database and detail of the prompt, the quailty and output are vary. In particular, in the case of Chat GPT and Claude, the answer was slightly different when Ai checked whether if it knew the reference or not. Also when I ask a question related to a given reference, there are cases where it finds the similar answer. Therefor the user must judge the reliability by theirmself and write. Because of reliability of the reference, I really liked jenny ai. B
+ecause when jenny ai used their own reference, it provided APA style annotation with link of certain reference.
+Overall, I would use Jenni ai when I have to the the writing. Because with this tool, I can get overall ideas of structure and the content, grammar check, and reference recommendation.
 
 persentation Link: https://www.figma.com/proto/y7dIOAq2KWarOsFsQJNNJE/IDMT380?page-id=73%3A2&type=design&node-id=73-3&viewport=775%2C207%2C0.15&t=2Jv1uUT2zTbWnoCL-1&scaling=contain&mode=design
