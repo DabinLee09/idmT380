@@ -4,20 +4,24 @@
 Research Question/Goal : 
 How to identify the right customer details and expectations by using Website optimization and analytics techniques.
 
-website optimization: the process of tuning the structure of the website contents
-Web analytics: applied to website to understand site visitor's behaviour or user expectations
+- **website optimization:** the process of tuning the structure of the website contents
+- **Web analytics:** applied to website to understand site visitor's behaviour or user expectations
 
 ### AI Tools Researched
 **Google Analytics:**
 Widely used for tracking website traffic and user behavior. It provides insights into acquisition, behavior, and conversion metrics, helping in understanding user interactions and improving website performance.
+
 **Kissmetrics:**
 Focuses on user behavior analytics, allowing businesses to track visitor activities and engagement over time, providing a detailed understanding of user journeys.
+
 **Adobe Analytics:**
 Collects visitor information from multiple channels such as search engines, social media, and blog posts, offering comprehensive analytics to understand customer needs.
+
 **Chatbots (Voice-based and Text-based):**
 Automated bots that interact with users to provide instant responses and support. These bots are powered by natural language processing (NLP) and machine learning algorithms to understand and respond to user queries efficiently.
 
-The Reason They Selected These Tools:
+
+# The Reason They Selected These Tools:
 1. These tools are industry standard and used in many sites to analyze and optimize website performance.
 2. These tools offer comprehensive analytics and insights that are essential for understanding user behavior and preferences.
 3. The integration of chatbots provides a practical solution for improving customer interaction and support without human intervention.
