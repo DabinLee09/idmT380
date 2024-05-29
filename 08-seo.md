@@ -54,4 +54,18 @@ Used to monitor search engine rankings for targeted keywords over time. Analyzed
 
 
 ### Conclusion
-AI tools have proven to be highly beneficial in enhancing SEO strategies. SEMrush, Clearscope, and AccuRanker each offer unique capabilities that contribute to improved search rankings and user engagement. However, the successful implementation of these tools requires specialized skills and a deep understanding of SEO principles. Additionally, ethical considerations, such as potential biases in AI algorithms, must be addressed to ensure fair and transparent SEO practices. Overall, AI has the potential to revolutionize SEO, but careful consideration and expertise are necessary to maximize its benefits.
+Using SEO tools directly felt a bit challenging, so I decided to conduct paper research. This paper reviews current SEO technologies and proposes how SEO technology could develop with AI in the future, which I found interesting and decided to review. The researchers did not directly use the tools mentioned above but evaluated them in the form of a case study. The Future AI-based SEO methods proposed in this paper are as follows:
+
+1. Improving Local Search Accuracy
+2. Optimizing SEO for Mobile Devices
+3. Enhancing Personalization of Search Results
+4. Democratizing SEO
+5. Addressing Ethical Implications
+
+Overall, AI is primarily used for content analysis in SEO, and unlike generative AI, a clear understanding of why AI is being used and what improvements are desired is essential for effectively leveraging AI in SEO.
+
+Presentation Source
+https://www.figma.com/proto/y7dIOAq2KWarOsFsQJNNJE/IDMT380?page-id=100%3A2&node-id=102-52&viewport=362%2C472%2C0.07&t=fhe9uiqsfbbOlFGF-1&scaling=contain
+
+Reference
+Umam, A. F. (2023). The impact of artificial intelligence on search engine optimization strategies. Proceeding International Conference on Economic Business and Social Science (ICEBSS), 1(1). Retrieved from https://icebss.com/index.php/pi/article/view/1
