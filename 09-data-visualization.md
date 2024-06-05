@@ -27,46 +27,43 @@ Dziban considers the properties of anchor visualization results when recommendin
 #### Data2Vis:
 
 - **Successes**: Efficient in generating visualization sequences from data sequences. Demonstrated the potential of sequence-to-sequence models for visualization recommendations.
-- **Challenges**: Initial setup was time-consuming due to the vast amount of data and tool complexity. Required a learning curve to fully utilize all features.
+- **Challenges**: Limited interpretability and generalization, restricted to Vega-Lite visual syntax.
 
 #### VizML: 
-- **Successes**: Enhanced content relevance and readability, leading to increased user engagement. Provided clear, actionable recommendations for content improvement.
-- **Challenges**: Integration with existing content management systems required additional configuration. Balancing keyword density with natural language was sometimes challenging.
+- **Successes**: Successfully recommended visualization spaces based on extensive data features. Demonstrated high scalability with millions of real-world visualization data.
+- **Challenges**: Only considered two types of visualization tasks, lacking comprehensive recommendation capabilities.
 
 #### Table2Charts: 
- - **Successes**: Provided real-time data on ranking fluctuations, allowing for timely adjustments. Offered detailed insights into competitor rankings and SERP dynamics.
-- **Challenges**: Data interpretation required a deep understanding of SEO metrics. High volume of data sometimes made it difficult to pinpoint specific areas for improvement.
+ - **Successes**: Versatile in rendering results across different visual languages. Utilized deep Q-learning effectively for template generation.
+- **Challenges**: Complex learning curve for users unfamiliar with deep Q-learning mechanisms.
+
+#### SEQ2VIS: 
+- **Successes**: Provided an end-to-end deep learning-based visual recommendation system. Integrated user analysis intent seamlessly.
+- **Challenges**: Required extensive computational resources for training and evaluation.
+
+#### Dziban: 
+- **Successes**: Effectively recommended visualizations considering anchor visualization properties. Improved user understanding by maintaining consistency in visual recommendations.
+- **Challenges**: Computational complexity in processing similarity algorithms and partial data queries.
 
 
 
 ### Evaluation of Tools
-- #### SEMrush:
-  Highly effective in identifying and implementing relevant keywords. Improved overall content quality and search visibility.
-  
-  **Challenges**: High complexity and learning curve.
-- #### Clearscope:
-  Significant improvement in content optimization and user engagement. Enhanced keyword relevance and readability.
-  
-  **Challenges**: Integration and balancing natural language with keyword usage.
-- #### AccuRanker:
-  Excellent for real-time monitoring and competitor analysis. Detailed insights into SERP trends.
-
-  **Challenges**: Requires expertise in SEO metrics for effective use.
+#### Data2Vis: 
+High efficiency in generating visualization sequences but limited by poor generalization and interpretability.
+#### VizML: 
+Excellent scalability and feature consideration but restricted in the diversity of visualization tasks.
+#### Table2Charts: 
+Versatile and effective in template rendering, yet challenging in user adoption due to deep learning complexity.
+#### SEQ2VIS: 
+Robust integration of user intent with high computational demands, making it less accessible for small-scale projects.
+#### Dziban: 
+Improved consistency in visual recommendations with significant computational overhead for similarity processing.
 
 
 
 
 ### Conclusion
-Using SEO tools directly felt a bit challenging, so I decided to conduct paper research. This paper reviews current SEO technologies and proposes how SEO technology could develop with AI in the future, which I found interesting and decided to review. The researchers did not directly use the tools mentioned above but evaluated them in the form of a case study. The Future AI-based SEO methods proposed in this paper are as follows:
-
-1. Improving Local Search Accuracy
-2. Optimizing SEO for Mobile Devices
-3. Enhancing Personalization of Search Results
-4. Democratizing SEO
-5. Addressing Ethical Implications
-
-Overall, AI is primarily used for content analysis in SEO, and unlike generative AI, a clear understanding of why AI is being used and what improvements are desired is essential for effectively leveraging AI in SEO.
-
+AI significantly enhances data visualization by automating complex tasks, identifying patterns, and providing real-time and predictive visualizations. Tools like Data2Vis, VizML, Table2Charts, SEQ2VIS, and Dziban demonstrate the potential of AI to simplify and enrich data visualization processes. However, challenges such as computational complexity, limited interpretability, and user adoption barriers need to be addressed. The ethical implications of AI in data visualization, including data privacy and algorithmic bias, must also be considered. Overall, AI holds tremendous promise in making data visualization more accessible, efficient, and insightful.
 
 Reference
 Yin, S., Li, H., Sun, Y., Ibrar, M., & Teng, L. (2024). Data visualization analysis based on explainable artificial intelligence: A survey. *IJLAI Transactions on Science and Engineering, 2*(2), 13–20. Retrieved from https://ijlaitse.com/index.php/site/article/view/34
